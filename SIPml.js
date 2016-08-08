@@ -5,7 +5,7 @@
 */
 
 /**
-@fileoverview This is SIPML5 "library" contains a  lot of classes and functions.
+@fileoverview // add-onsThis is SIPML5 "library" contains a  lot of classes and functions.
 
 @name sipML5 API
 @author      Doubango Telecom <http://www.doubango.org>

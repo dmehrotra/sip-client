@@ -25,7 +25,7 @@ If you want to get help or have some feedbacks then please visit our website: <a
 
 <br />
 <h3>Checking out the source code</h3>
-<br />
+<br />// add-ons
 To check out the source code of the NGN library you will need a SVN client.<br />
 Use this command to anonymously check out the last project source:
 @code
